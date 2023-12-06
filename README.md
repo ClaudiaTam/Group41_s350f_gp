@@ -48,6 +48,7 @@ Current features
 > As mentioned in the original work, the project requires the installation of Python 3 and PostgreSQL database. We have installed the Python 3.11 and PostgreSQL 16.1 with Stack Builder.
 > For further website development,we use PyCharm Community Edition.
 
+- [Visual Studio Code any version u like](https://code.visualstudio.com/download)(This is what original creator using)
 - [Pycharm newest version](https://www.jetbrains.com/pycharm/download/other.html)
 - [Any Python-3 version](https://www.python.org/downloads/)
 - [PostgreSQL database](https://www.postgresql.org/download/)
