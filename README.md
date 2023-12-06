@@ -2,6 +2,7 @@
 
 ### I would like to extend my sincere thanks to Adil Mohak for providing the code on Github.It has greatly benefited our project.
 ### We made modifications to the source code provided by Adil Mohak. Firstly, we implemented the code on the PyCharm platform instead of Visual Studio Code, as used by Adil Mohak. Additionally, our database has some slight differences.
+### Furthermore, we have conducted testing on the website, and we have already provided the testing plan and testing report.
 
 ### Demo video: https://youtu.be/KKIeRXwZ-Sw
 ### Setup video: https://youtu.be/gMJfENDEyUs
