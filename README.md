@@ -117,4 +117,10 @@ Finally, you will get this address http://127.0.0.1
 # References
 - Mohak, A. (2023). Learning management system using django web framework. [online] GitHub. Available at: https://github.com/adilmohak/django-lms
 
+## Contributing
+Contributions are welcome. For major changes, please open an issue first
+or submit a pull request to discuss what you would like to change.
+
+## License
+This project is licensed under the terms of MIT license. 
 
